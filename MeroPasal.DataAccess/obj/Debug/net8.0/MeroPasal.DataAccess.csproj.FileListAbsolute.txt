@@ -1,0 +1,12 @@
+F:\Lazy Code\MeroPasal.DataAccess\bin\Debug\net8.0\MeroPasal.DataAccess.deps.json
+F:\Lazy Code\MeroPasal.DataAccess\bin\Debug\net8.0\MeroPasal.DataAccess.dll
+F:\Lazy Code\MeroPasal.DataAccess\bin\Debug\net8.0\MeroPasal.DataAccess.pdb
+F:\Lazy Code\MeroPasal.DataAccess\obj\Debug\net8.0\MeroPasal.DataAccess.csproj.AssemblyReference.cache
+F:\Lazy Code\MeroPasal.DataAccess\obj\Debug\net8.0\MeroPasal.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lazy Code\MeroPasal.DataAccess\obj\Debug\net8.0\MeroPasal.DataAccess.AssemblyInfoInputs.cache
+F:\Lazy Code\MeroPasal.DataAccess\obj\Debug\net8.0\MeroPasal.DataAccess.AssemblyInfo.cs
+F:\Lazy Code\MeroPasal.DataAccess\obj\Debug\net8.0\MeroPasal.DataAccess.csproj.CoreCompileInputs.cache
+F:\Lazy Code\MeroPasal.DataAccess\obj\Debug\net8.0\MeroPasal.DataAccess.dll
+F:\Lazy Code\MeroPasal.DataAccess\obj\Debug\net8.0\refint\MeroPasal.DataAccess.dll
+F:\Lazy Code\MeroPasal.DataAccess\obj\Debug\net8.0\MeroPasal.DataAccess.pdb
+F:\Lazy Code\MeroPasal.DataAccess\obj\Debug\net8.0\ref\MeroPasal.DataAccess.dll

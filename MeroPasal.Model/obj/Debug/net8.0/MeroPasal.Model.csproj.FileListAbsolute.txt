@@ -1,0 +1,11 @@
+F:\Lazy Code\MeroPasal.Model\bin\Debug\net8.0\MeroPasal.Model.deps.json
+F:\Lazy Code\MeroPasal.Model\bin\Debug\net8.0\MeroPasal.Model.dll
+F:\Lazy Code\MeroPasal.Model\bin\Debug\net8.0\MeroPasal.Model.pdb
+F:\Lazy Code\MeroPasal.Model\obj\Debug\net8.0\MeroPasal.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lazy Code\MeroPasal.Model\obj\Debug\net8.0\MeroPasal.Model.AssemblyInfoInputs.cache
+F:\Lazy Code\MeroPasal.Model\obj\Debug\net8.0\MeroPasal.Model.AssemblyInfo.cs
+F:\Lazy Code\MeroPasal.Model\obj\Debug\net8.0\MeroPasal.Model.csproj.CoreCompileInputs.cache
+F:\Lazy Code\MeroPasal.Model\obj\Debug\net8.0\MeroPasal.Model.dll
+F:\Lazy Code\MeroPasal.Model\obj\Debug\net8.0\refint\MeroPasal.Model.dll
+F:\Lazy Code\MeroPasal.Model\obj\Debug\net8.0\MeroPasal.Model.pdb
+F:\Lazy Code\MeroPasal.Model\obj\Debug\net8.0\ref\MeroPasal.Model.dll

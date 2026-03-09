@@ -1,0 +1,11 @@
+F:\Lazy Code\MeroPasal.Service\bin\Debug\net8.0\MeroPasal.Service.deps.json
+F:\Lazy Code\MeroPasal.Service\bin\Debug\net8.0\MeroPasal.Service.dll
+F:\Lazy Code\MeroPasal.Service\bin\Debug\net8.0\MeroPasal.Service.pdb
+F:\Lazy Code\MeroPasal.Service\obj\Debug\net8.0\MeroPasal.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lazy Code\MeroPasal.Service\obj\Debug\net8.0\MeroPasal.Service.AssemblyInfoInputs.cache
+F:\Lazy Code\MeroPasal.Service\obj\Debug\net8.0\MeroPasal.Service.AssemblyInfo.cs
+F:\Lazy Code\MeroPasal.Service\obj\Debug\net8.0\MeroPasal.Service.csproj.CoreCompileInputs.cache
+F:\Lazy Code\MeroPasal.Service\obj\Debug\net8.0\MeroPasal.Service.dll
+F:\Lazy Code\MeroPasal.Service\obj\Debug\net8.0\refint\MeroPasal.Service.dll
+F:\Lazy Code\MeroPasal.Service\obj\Debug\net8.0\MeroPasal.Service.pdb
+F:\Lazy Code\MeroPasal.Service\obj\Debug\net8.0\ref\MeroPasal.Service.dll
