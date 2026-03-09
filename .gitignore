@@ -1,0 +1,23 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# IDE folders
+.vscode/
+.idea/
+
+# Local configuration
+**/appsettings.Development.json
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Logs
+*.log
