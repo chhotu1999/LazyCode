@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MeroPasal.Model\MeroPasal.Model.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "MeroPasal.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MeroPasal.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MeroPasal.Model.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MeroPasal.Model/1.0.0": {
+      "type": "project",
+      "path": "../MeroPasal.Model/MeroPasal.Model.csproj",
+      "msbuildProject": "../MeroPasal.Model/MeroPasal.Model.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "MeroPasal.Model >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Aakash_Chhotu\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Lazy Code\\MeroPasal.Model\\MeroPasal.Model.csproj": {
+              "projectPath": "F:\\Lazy Code\\MeroPasal.Model\\MeroPasal.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

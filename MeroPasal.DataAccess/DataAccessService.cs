@@ -1,4 +1,5 @@
-﻿using Microsoft.Data.SqlClient;
+﻿using Dapper;
+using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 using System.Data; 
 
@@ -26,6 +27,38 @@ namespace MeroPasal.DataAccess
                 throw;
             }
 
+        }
+
+        public async Task<string> RetrievalProcedure(string storedProcedure, string json)
+        {
+            try
+            {
+                using IDbConnection conn = await GetConnection();
+                DynamicParameters param = new();
+                param.Add("Json", json, DbType.String);
+                string result = await conn.QueryFirstOrDefaultAsync<string>(storedProcedure, param, commandType: CommandType.StoredProcedure) ?? "";
+                return result ?? "{}";
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+
+        public async Task<string> ActionProcedure(string storedProcedure, string json)
+        {
+            try
+            {
+                using IDbConnection conn = await GetConnection();
+                DynamicParameters param = new();
+                param.Add("Json", json, DbType.String, direction: ParameterDirection.InputOutput, size: int.MaxValue);
+                int result = await conn.ExecuteAsync(storedProcedure, param, commandType: CommandType.StoredProcedure);
+                return param.Get<string>("Json") ?? "{}";
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
     }
 }

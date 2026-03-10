@@ -8,11 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Serilog" Version="4.3.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\MeroPasal.DataAccess\MeroPasal.DataAccess.csproj" />
+    <ProjectReference Include="..\MeroPasal.Interface\MeroPasal.Interface.csproj" />
   </ItemGroup>
 
 </Project>

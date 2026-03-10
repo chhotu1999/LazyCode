@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MeroPasal.DataAccess\MeroPasal.DataAccess.csproj" />
+    <ProjectReference Include="..\MeroPasal.Interface\MeroPasal.Interface.csproj" />
+  </ItemGroup>
+
 </Project>
